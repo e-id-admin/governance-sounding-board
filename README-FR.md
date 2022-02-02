@@ -1,3 +1,5 @@
+[Deutsche Version](README.md) - [Versione italiana](README-IT.md)
+
 # Le Governance Sounding Board
 Ce domaine (repository) regroupe l'ensemble des discussions et des questions touchant à la gouvernance dans le cadre de l'e-ID étatique et de l'infrastructure de confiance numérique associée.
 
