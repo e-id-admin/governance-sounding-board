@@ -1,3 +1,5 @@
+[Deutsche Version](README.md) - [Version française](README-FR.md)
+
 # Il Governance Sounding Board
 Questa sezione (repository) raccoglie ogni tipo di discussione e di domanda su argomenti di governance riguardanti l'Ie statale e la relativa infrastruttura digitale fiduciaria.
 
